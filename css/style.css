@@ -179,6 +179,10 @@ background: linear-gradient(180deg, rgba(157,194,56,1) 0%, rgba(28,50,27,1) 100%
     color: #fff;
     
 }
+.socal-links {
+    display: flex;
+}
+
 .sec-pading-li{
     padding-left: 50px;
 }
