@@ -97,4 +97,47 @@ li.nav-item {
 .socal-links{
   display:none;
 }
+
+/* about */
+.sec-abou-padding {
+  padding: 40px 0px;
+}
+img.sec-abut-img {
+  width: 100%;
+  padding-bottom: 30px;
+}
+.sec-about-main-n {
+  font-size: 60px;
+}
+.sec-about-pp {
+  font-size: 18px;
+}
+.gallery-container {
+  flex-direction: column;
+}
+.lightbox-content img {
+  width: 70%;
+}
+.lightbox-content {
+  position: relative;
+  width: 90%;
+  height: 90%;
+}
+.lightbox-content img {
+  padding-top: 150px;
+}
+.sec-abou-padding2 {
+  padding: 40px 0px 0px 0px;
+}
+.sec-about-main-n22 {
+  font-size: 60px;
+}
+.form-group {
+  margin-bottom: 15px;
+  padding-left: 0;
+}
+.link-sec {
+  font-size: 35px;
+}
+
 }
