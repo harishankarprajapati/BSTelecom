@@ -198,3 +198,6 @@ a.nav-link {
     color: #fff;
     padding-left: 30px;
 }
+.sec-face-icon{
+    padding-left: 0px !important;
+}
