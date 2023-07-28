@@ -6,6 +6,23 @@
     width: 1720px;
   }
 }
+@media only screen and (max-width: 999px) {
+  a.navbar-brand {
+    width: 100%;
+  }
+  img.sec-logo-j {
+    width: 100% !important;
+}
+
+a.nav-link {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-size: 18px;
+  font-weight: 500;
+  color: #000;
+  padding: 0px 20px !important;
+}
+}
 
 @media only screen and (max-width: 767px) {
   .sec-space-left-right-nav {
