@@ -81,7 +81,7 @@
 .owl-carousel .owl-nav button.owl-prev,
 .owl-carousel button.owl-dot {
     background: 0 0;
-    color: #036BB0;
+    color: rgb(157,194,56);
     border: none;
     padding: 0 !important;
     font: inherit;
@@ -237,7 +237,7 @@
     background: transparent;
     font-size: 40px;
     font-family: 'Roboto';
-    color: #036BB0;
+    color: rgb(157,194,56);
 }
 .owl-theme .owl-nav {
     margin-top: -380px;

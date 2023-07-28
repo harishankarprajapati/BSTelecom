@@ -27,7 +27,7 @@ a.nav-link {
     font-size: 25px;
 }
 .sec-meni-icon:hover , a.nav-link:hover{
-    color: #036BB0;
+    color: rgb(157,194,56);
 }
 .sec-brand-padding{
     padding-top: 350px !important;
@@ -208,4 +208,30 @@ background: linear-gradient(180deg, rgba(157,194,56,1) 0%, rgba(28,50,27,1) 100%
 .sec-l11-shod{
     padding-top: 29px !important;
     padding-bottom: 30px !important
+}
+.sec-abou-padding{
+    padding: 80px 0px;
+}
+.sec-about-main-n{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-size: 80px;
+    font-weight: 700;
+    color: #000;
+}
+hr.sec-hr-ji {
+    color: #000;
+    opacity: 1 !important;
+    border: 3px solid !important;
+    width: 20% !important;
+    margin: 0px;
+    margin-bottom: 20px !important;
+}
+.sec-about-pp{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-size: 20px;
+    font-weight: 400;
+    color: #000;
+    
 }
