@@ -85,6 +85,8 @@ background: linear-gradient(180deg, rgba(157,194,56,1) 0%, rgba(28,50,27,1) 100%
     font-size: 22px;
     font-weight: 400;
     color: #000;
+    display: flex;
+    align-items: baseline;
 }
 .sec-headphone-bg2{
     background-image: url(../images/watch-bg.jpg);
