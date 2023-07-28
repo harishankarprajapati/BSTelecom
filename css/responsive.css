@@ -7,12 +7,94 @@
   }
 }
 
-@media screen and (max-height: 450px) {
-  .sidenav {
-    padding-top: 15px;
-  }
+@media only screen and (max-width: 767px) {
+  .sec-space-left-right-nav {
+    padding: 0px 00px 0px 0px;
+}
+a.navbar-brand {
+  width: 76%;
+}
+img.sec-logo-j {
+  width: 94% !important;
+}
+.sec-brand-padding {
+  padding-top: 35px !important;
+  padding-bottom: 23px !important;
+  text-align: center;
+}
+.sec-space-left-right {
+  padding: 0px 10px;
+}
+.sec-pad-hea {
+  padding: 40px 0px 0px 0px;
+}
+.sec-bg-color , .sec-bg-color2 {
+  background-color: #fff;
+  padding: 20px;
+  margin: 144px 0px -67px 6px;
+  margin-right: 0px !important;
+  margin-left: 0px !important;
+  width: 100%;
+}
+.sec-prod-mob{
+  padding-top: 100px !important;
+}
+.sec-head-name {
+  font-size: 28px;
+}
+.sec-head-name-p {
+  font-size: 18px;
+}
+.sec-points {
+  font-size: 18px;
+  display:flex; 
+  align-items: baseline;
+}
+.sec-icon-prod {
+  font-size: 12px;
+  padding: 7px 7px;
+  margin-right: 10px;
+}
+.sec-flecx-prd{
+  display: flex !important;
+  flex-direction:column-reverse;
+}
+.sec-p-col {
+  padding: 0px 10px 0px 10px;
+}
+.sec-headphone-bg3 {
+  background-size: cover;
+}
+.owl-nav {
+  display: none;
+}
 
-  .sidenav a {
-    font-size: 18px;
-  }
+.sec-headphone-bg4 {
+  background-size: cover;
+}
+.sec-review-name {
+  font-size: 40px;
+  padding: 20px 0px !important;
+}
+.testimonial-bubble {
+  height: 445px;
+}
+.sec-paddine-revew {
+  padding-bottom: 50px;
+}
+.sec-footer-bg{
+  padding: 40px 0px;
+}
+.sec-pading-li{
+  padding-left: 20px;
+}
+a.nav-link{
+  padding: 0px !important;
+}
+li.nav-item {
+  padding-top: 10px;
+}
+.socal-links{
+  display:none;
+}
 }
