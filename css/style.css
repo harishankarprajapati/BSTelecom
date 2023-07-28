@@ -239,3 +239,31 @@ hr.sec-hr-ji {
     color: #000;
     
 }
+.sec-l11-shod3{
+    padding-top: 48px !important;
+    padding-bottom: 48px !important
+}
+
+.sec-l11-shod2{
+    padding-top: 35px !important;
+    padding-bottom: 40px !important
+}
+.sec-about-main-n22{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-size: 80px;
+    font-weight: 700;
+    color: #000;
+    text-align: center;
+    padding-top: 80PX;
+}
+hr.sec-hr-ji2 {
+    color: #000;
+    opacity: 1 !important;
+    border: 3px solid !important;
+    width: 10% !important;
+    margin: 0px;
+    margin-bottom: 20px !important;
+    text-align: center  !important;
+    margin: auto  !important;
+}
