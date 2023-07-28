@@ -214,7 +214,7 @@ background: linear-gradient(180deg, rgba(157,194,56,1) 0%, rgba(28,50,27,1) 100%
     padding-bottom: 30px !important
 }
 .sec-abou-padding{
-    padding: 80px 0px;
+    padding: 80px 0px 0px 0px;
 }
 .sec-about-main-n{
     font-family: 'Roboto';
@@ -255,7 +255,7 @@ hr.sec-hr-ji {
     font-weight: 700;
     color: #000;
     text-align: center;
-    padding-top: 80PX;
+    padding-top: 0px;
 }
 hr.sec-hr-ji2 {
     color: #000;
@@ -266,4 +266,63 @@ hr.sec-hr-ji2 {
     margin-bottom: 20px !important;
     text-align: center  !important;
     margin: auto  !important;
+}
+.sec-cont-padding{
+    padding-top: 40px;
+}
+.sec-cont-hh {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 164%;
+    color: #000;
+}
+.form-group {
+    margin-bottom: 15px;
+}
+.form-control {
+    font-family: 'Roboto' !important;
+    font-style: normal;
+    font-weight: 400 !important;
+    font-size: 18px !important;
+    line-height: 25px !important;
+    color: #000000 !important;
+}
+select#inputState, input {
+    height: 47px !important;
+}
+.sec-menu-btn2 {
+    background: rgb(157,194,56);
+    background: linear-gradient(180deg, rgba(157,194,56,1) 0%, rgba(28,50,27,1) 100%);
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 24px;
+    color: #fff;
+    padding: 15px 30px;
+    border: none;
+}
+.sec-menu-btn2:hover {
+    color: #fff !important;
+    background: rgb(157,194,56);
+    background: linear-gradient(180deg, rgba(28,50,27,1) 0%, rgba(157,194,56,1) 100%);
+}
+.seccont-add-h {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 150%;
+    color: #000000;
+}
+.seccont-add-p {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 27px;
+    color: #000000;
+    text-decoration: none;
 }
